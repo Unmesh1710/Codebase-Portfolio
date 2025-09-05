@@ -46,7 +46,7 @@ VS Code – Development environment for building and testing the portfolio
 
 💻 About Me
 
-I started coding in class 6 and have experience in HTML, CSS, and Java. Over the years, I have developed a strong interest in building responsive websites, exploring new technologies, and solving problems through programming.
+I started coding in class 5 and have experience in HTML, CSS, and Java. Over the years, I have developed a strong interest in building responsive websites, exploring new technologies, and solving problems through programming.
 
 This portfolio reflects my growth as a web developer, showcasing projects that demonstrate my creativity, critical thinking, and technical skills.
 
